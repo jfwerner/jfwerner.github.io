@@ -9,7 +9,7 @@
 - Minecraft: `minecraft.johanneswerner.me:25565`
 - Mumble: `mumble.johanneswerner.me`   Port: `39916`
 
-### [About](https://jfwerner.github.io/about]
+### [About](https://jfwerner.github.io/about)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
