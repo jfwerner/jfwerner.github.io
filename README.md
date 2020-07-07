@@ -6,8 +6,8 @@
 
 ### IP's:
 
-- Minecraft: minecraft.johanneswerner.me:25565
-- Mumble: mumble.johanneswerner.me   Port: 39916
+- Minecraft: `minecraft.johanneswerner.me:25565`
+- Mumble: `mumble.johanneswerner.me`   Port: `39916`
 
 
 
