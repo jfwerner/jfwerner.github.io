@@ -1,5 +1,5 @@
 # Contact: 
 
-[Email](contact@johanneswerner.me)
+Email: contact@johanneswerner.me
 
 Mastodon: @jfwerner@mastodon.xyz
