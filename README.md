@@ -11,10 +11,6 @@
 
 ### [About](https://jfwerner.github.io/about)
 
-Mechatronics Student in Karlsruhe. 20 yo.
-
-_cool_
-
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
