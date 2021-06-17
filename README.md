@@ -1,4 +1,4 @@
-# Welcome to Johannes Werner
+# Johannes Werner
 
 ### Links:
 
@@ -11,7 +11,7 @@
 
 ### [About](https://jfwerner.github.io/about)
 
-# PENIS
+Mechatronics Student in Karlsruhe. 20 yo.
 
 _cool_
 
